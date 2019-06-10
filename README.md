@@ -1,2 +1,2 @@
 # Node2Servers
-Simple App that has two we servers
+Simple App that has two web servers
